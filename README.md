@@ -17,5 +17,3 @@ I've had fun doing some initial exploration of the data: they're very clearly a 
 ![Neighbourhood Types](images/geodem.png)
 
 ![Neighbourhood Types](images/nbhds.png)
-
-![The Church](images/church.jfif)
